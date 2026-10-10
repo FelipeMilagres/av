@@ -1,7 +1,13 @@
-Status da avaliação: Aprovado no desafio técnico e na entrevista com o comitê.
-
-Feedback da avaliação: Demonstrou experiência prática em automação de testes para APIs e aplicações Web, capacidade de estruturação de processos de qualidade e boa visão de riscos e impactos. Como pontos de desenvolvimento, foram identificadas oportunidades de aprofundamento nos conceitos teóricos e nas técnicas formais de teste de software.
-
-Status da alocação: Não será possível avançar com a alocação para a vaga atual devido ao desalinhamento entre a pretensão financeira do candidato e as condições comerciais previstas para a posição.
-
-Próximos passos: Candidato informado sobre o resultado. Manter o perfil no banco de talentos para futuras oportunidades em outras squads e consultorias, conforme disponibilidade orçamentária e alinhamento comercial.
+Olá, Jessica, boa tarde!
+Espero que esteja bem!
+Segue o retorno do candidato Rondon Júnior:
+- Status: Aprovado para a entrevista técnica.
+- Feedback: Considerando as entregas de automação de API (Postman/Newman) e Mobile (WebdriverIO/Appium), o candidato demonstrou boa capacidade prática, com cenários automatizados funcionais, cobertura de testes positivos e negativos, estruturação com Page Objects, integração com CI/CD e geração de relatórios.
+  Como pontos de atenção, identificamos oportunidades de evolução no isolamento e na independência dos testes, na resiliência da limpeza de dados e no tratamento de exceções e sincronização dos fluxos mobile. Esses aspectos deverão ser aprofundados durante a entrevista técnica, considerando as expectativas de maturidade para o nível sênior.
+O candidato apresentou entregas consistentes e evidências práticas suficientes para avançar para a próxima etapa do processo seletivo.
+Para agendarmos a entrevista técnica, temos as seguintes opções:
+- Terça-feira (13/10), às 17h.
+- Quarta-feira (14/10), às 17h.
+Você poderia, por gentileza, verificar qual das opções é mais adequada para a agenda do candidato?
+Aproveito para informar que os desafios dos demais candidatos seguem em análise e, em breve, enviaremos os respectivos retornos.
+Qualquer dúvida, fico à disposição!
