@@ -1,21 +1,23 @@
-Olá, Jéssica! Boa noite!
+Olá, Jéssica! Tudo bem?
 
-Segue a atualização dos candidatos:
+Após a avaliação realizada pelo comitê, decidimos não avançar com o Henrique Oliveira para a posição de QA Formation Senior.
 
-- **Reinaldo Mateus:** aprovado no desafio técnico, apto para entrevista técnica.
-- **Henrique Oliveira:** aprovado no desafio técnico, mas reprovado na entrevista técnica.
-- **Marcos Luciano:** reprovado no desafio técnico.
-- **Rondon Junior:** aprovado no desafio técnico, apto para entrevista técnica.
-- **Giovanni:** em análise.
-- **Matheus Amaral:** em análise.
-- **Raphael Santos:** em análise.
-- **Gabriel Darlone:** em análise.
-- **Elluy Pereira:** em análise.
-- **Loruhana Avelino:** em análise.
+Embora o candidato possua aproximadamente 9 anos de experiência na área de testes de software e tenha apresentado vivência prática em projetos anteriores, identificamos alguns pontos de atenção durante a entrevista técnica que não estão alinhados ao nível de senioridade exigido para as posições atualmente abertas.
 
-Um ponto importante: para manter o histórico e evitar misturar os contextos das avaliações, os retornos individuais dos candidatos estão sendo enviados diretamente nos e-mails em que você encaminhou os respectivos perfis, concentrando todas as informações de cada avaliação em uma única conversa.
+Entre os principais pontos observados, destacamos:
 
-Obrigado pelo acompanhamento!
+Profundidade técnica e fundamentação: apresentou dificuldades para aprofundar as respostas e demonstrar segurança e consistência nos conceitos abordados, especialmente em temas como inteligência artificial, gestão de defeitos e métricas de qualidade.
 
-Atenciosamente,  
-Felipe
+Estratégia de automação: ao discutir cenários de automação, não demonstrou critérios claros para avaliar a viabilidade dos testes, definir prioridades e equilibrar testes manuais e automatizados, considerando o contexto e as necessidades do projeto.
+
+Visão estratégica: identificamos oportunidades de evolução na tomada de decisão técnica e na capacidade de justificar abordagens considerando os objetivos e as necessidades do negócio.
+
+Comunicação durante a entrevista: as respostas foram, em geral, bastante sucintas, com pouco aprofundamento e argumentação, o que dificultou avaliar a extensão de seu conhecimento e sua capacidade de conduzir discussões técnicas esperadas para o nível Sênior.
+
+De forma geral, entendemos que, apesar da experiência profissional acumulada, o candidato apresenta maior aderência ao nível Pleno neste momento, não demonstrando a maturidade técnica e a autonomia esperadas para a posição Sênior.
+
+Peço, por gentileza, que compartilhe o retorno com o candidato, considerando esses pontos de forma construtiva.
+
+Obrigado!
+
+Atenciosamente,
