@@ -1,21 +1,21 @@
-Olá, Jéssica, bom dia!
+Olá, Jéssica! Boa noite!
 
-Espero que esteja bem!
+Segue a atualização dos candidatos:
 
-Segue o retorno do candidato Reinaldo Matheus:
+- **Reinaldo Mateus:** aprovado no desafio técnico, apto para entrevista técnica.
+- **Henrique Oliveira:** aprovado no desafio técnico, mas reprovado na entrevista técnica.
+- **Marcos Luciano:** reprovado no desafio técnico.
+- **Rondon Junior:** aprovado no desafio técnico, apto para entrevista técnica.
+- **Giovanni:** em análise.
+- **Matheus Amaral:** em análise.
+- **Raphael Santos:** em análise.
+- **Gabriel Darlone:** em análise.
+- **Elluy Pereira:** em análise.
+- **Loruhana Avelino:** em análise.
 
-Status: Aprovado para a entrevista técnica.
+Um ponto importante: para manter o histórico e evitar misturar os contextos das avaliações, os retornos individuais dos candidatos estão sendo enviados diretamente nos e-mails em que você encaminhou os respectivos perfis, concentrando todas as informações de cada avaliação em uma única conversa.
 
-Feedback: Considerando as entregas de automação de API e Mobile, o candidato demonstrou conhecimento prático em automação de testes, com cenários positivos e negativos, organização do código, utilização de Page Objects, dados parametrizados e configuração de integração contínua e geração de relatórios. Como pontos de atenção, identificamos oportunidades de evolução na cobertura dos testes de API, na confiabilidade e repetibilidade das execuções e na estabilidade da automação Mobile, que apresentou uma falha no iOS. Também foram necessários ajustes de dependências e configurações para executar o projeto. Esses aspectos deverão ser aprofundados durante a entrevista técnica.
+Obrigado pelo acompanhamento!
 
-O candidato apresentou uma base técnica consistente e foi aprovado com ressalvas nos dois desafios, sendo recomendado para avançar à próxima etapa do processo seletivo.
-
-Para agendarmos a entrevista técnica, temos as seguintes opções:
-
-Quarta-feira (14/10), às 14h.
-
-Quinta-feira (15/10), às 15h.
-
-Você poderia, por gentileza, verificar qual das opções é mais adequada para a agenda do candidato?
-
-Qualquer dúvida, fico à disposição!
+Atenciosamente,  
+Felipe
