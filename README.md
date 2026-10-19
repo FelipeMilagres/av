@@ -2,28 +2,26 @@ Olá, pessoal, bom dia!
 
 Espero que estejam bem!
 
-Após a avaliação técnica do candidato **Matheus Amaral**, recomendamos seu avanço para a etapa de entrevista técnica, considerando o desempenho apresentado nos desafios de automação Mobile e API.
+Após a avaliação técnica do candidato Giovanni Araújo, o candidato foi aprovado para avançar à etapa de entrevista técnica, considerando o desempenho apresentado nos desafios de automação Mobile e API.
 
-**Feedback da avaliação:**
+Feedback da avaliação:
 
-- **Automação Mobile:** O candidato apresentou um bom desempenho, com entrega organizada, 24 casos de teste parametrizados via JSON, utilização adequada do Page Object Model (POM), reutilização de ações e geração de relatórios no Allure com evidências de execução. Também demonstrou integração da execução automatizada à pipeline.
+Automação Mobile: O candidato atendeu aos principais requisitos do desafio, entregando 10 cenários parametrizados via JSON, utilização de Page Objects, relatórios no Allure, evidências com screenshots e integração com a pipeline do GitLab CI. Como pontos de atenção, foram identificadas oportunidades de melhoria na separação de responsabilidades, na compatibilidade entre Android e iOS, na integração com BrowserStack e na sincronização e validação dos elementos.
 
-- **Automação de API:** Demonstrou bons fundamentos técnicos, com estrutura organizada utilizando REST Assured/JUnit, cobertura das principais operações de usuários, utilização de JWT dinâmico, fixtures e UUIDs, além de configurações de CI.
+Automação de API: Demonstrou uma boa base técnica, com arquitetura organizada e modularizada, autenticação JWT funcional, execução de testes automatizados e publicação de relatórios via CI/CD no GitHub Actions. Os 18 testes executados passaram, contemplando validações de schema e regras de negócio. Como pontos de atenção, há oportunidades de ampliar a cobertura de cenários negativos, aprofundar as asserções e aprimorar a limpeza de dados após a execução dos testes.
 
-- **Pontos de atenção:** Foram identificadas oportunidades de melhoria na sincronização das asserções, no controle de estado e tratamento de exceções na automação Mobile. No desafio de API, houve falha na execução da pipeline durante a avaliação, além de oportunidades de ampliar a cobertura das validações de dados persistidos após operações de CRUD, validar campos obrigatórios e aprimorar a limpeza de dados após falhas e a consistência da documentação.
+Parecer geral: O candidato apresentou uma base técnica sólida, boa organização arquitetural e entregas funcionais nas duas frentes. Os pontos de atenção identificados serão aprofundados durante a entrevista técnica, especialmente em relação à cobertura de cenários, à compatibilidade multiplataforma e à maturidade das validações e sincronizações.
 
-**Parecer geral:** O candidato foi aprovado com ressalvas na avaliação técnica. A boa performance em automação Mobile e os fundamentos apresentados em automação de API justificam o avanço para a entrevista técnica, etapa em que poderemos aprofundar os pontos de atenção identificados e avaliar sua aderência às necessidades do nosso contexto.
+Para darmos continuidade ao processo, gostaria de verificar a disponibilidade do Giovanni para participar da entrevista técnica. Temos as seguintes opções de agenda:
 
-Para darmos continuidade ao processo, temos as seguintes opções de agenda para a entrevista técnica:
+Terça-feira (20/10), às 17h;
 
-- **Terça-feira (20/10), às 17h;**
-- **Quarta-feira (21/10), às 14h;**
-- **Quarta-feira (21/10), às 17h.**
+Quarta-feira (21/10), às 14h;
 
-Poderiam, por gentileza, verificar qual das opções é mais adequada à agenda de vocês?
+Quarta-feira (21/10), às 17h.
+
+Observação: Esses três horários serão distribuídos entre o Giovanni e o Matheus Amaral, candidato cuja avaliação foi encaminhada anteriormente. Dessa forma, pedimos que verifiquem a disponibilidade do Giovanni para as opções apresentadas, para que possamos organizar os agendamentos considerando a disponibilidade de ambos.
+
+Poderiam, por gentileza, nos retornar com a opção mais adequada à agenda do candidato?
 
 Qualquer dúvida, fico à disposição!
-
-Atenciosamente,  
-**Felipe Milagres**  
-TI — Centro de Excelência de Qualidade
