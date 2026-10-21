@@ -1,11 +1,9 @@
-Olá, pessoal! Boa tarde, tudo bem?
+Olá, pessoal! Boa tarde.
 
-Passando para avisar que, embora ainda tenhamos alguns candidatos no backlog do [board de avaliações](INSERIR_LINK_DO_BOARD), conseguimos fechar todas as vagas que estavam em aberto até o momento.
+Gostaria de reforçar que, como concluímos o preenchimento de todas as vagas que estavam em aberto, incluímos o Reinaldo Matheus em nosso banco de talentos para possíveis oportunidades futuras, conforme a aderência do perfil às necessidades do time.
 
-Dessa forma, não é necessário iniciar a avaliação dos candidatos que ainda estão sem avaliador. Aqueles que já estão em andamento podem seguir até a conclusão, para finalizarmos os processos que já foram iniciados e evitarmos ajustes desnecessários.
+Agradecemos novamente à consultoria pela indicação e ao Reinaldo pela participação em nosso processo seletivo e pela disponibilidade ao longo das etapas.
 
-Aproveito para agradecer novamente a todos pelo apoio, pela disponibilidade e pela participação nas avaliações. A contribuição de vocês foi muito importante para conseguirmos fechar as vagas que tínhamos em aberto.
+Caso surjam novas oportunidades compatíveis com o perfil do candidato, poderemos retomar a avaliação.
 
-Agora, vamos aguardar a abertura de novas posições. Como estamos chegando ao final do quarter, a expectativa é que novas demandas sejam pontuais, possivelmente relacionadas a necessidades atípicas ou substituições.
-
-Obrigado, pessoal!
+Atenciosamente,
