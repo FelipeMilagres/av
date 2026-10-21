@@ -1,34 +1,42 @@
-### Contexto
-O projeto **Campanhas e Logs da Test Migration** realiza a extração dos cards do Kanbanize, a transformação dos dados para adequação ao formato esperado pelo LambdaTest e o carregamento dos cenários na plataforma de destino.
+Adequar o script de transformação do ETL ao padrão dos cenários da tribo
 
-Como a migração está sendo conduzida de forma incremental, por tribo e board, podem ser necessárias adaptações pontuais no script de transformação para atender às particularidades e aos padrões de escrita dos cenários de cada time.
+### Contexto
+O projeto **`kanbanize-lambdatest-migration`** realiza a extração dos cards e cenários de teste do Kanbanize, a transformação dos dados para o formato esperado pelo LambdaTest e o carregamento dos cenários na plataforma de destino.
+
+A migração é realizada de forma incremental, por tribo, board e time, com disponibilização dos cenários migrados e das respectivas evidências em pastas específicas no Drive.
 
 ### Objetivo
-Adequar o script de transformação do ETL para atender aos padrões dos cenários do board da tribo, garantindo que os dados sejam preparados corretamente para a migração para o LambdaTest.
+Migrar os cenários de teste do time para o LambdaTest e disponibilizá-los em uma pasta específica, permitindo que os squads realizem posteriormente a organização dos cenários nas respectivas estruturas dos projetos.
 
-### Escopo
-- Analisar as particularidades dos cards e cenários do board da tribo.
-- Realizar os ajustes necessários no script de transformação.
-- Preservar o comportamento existente do ETL para os demais boards e tribos.
-- Consolidar as alterações em um Merge Request específico, seguindo o padrão `fix/<nome-da-tribo>`.
+### Escopo da atividade
+- Extrair e preparar os cenários de teste do Kanbanize.
+- Executar o processo de transformação e carregamento dos cenários no LambdaTest.
+- Disponibilizar os cenários migrados em uma pasta específica, seguindo o padrão `Migração - <Nome do Time>`.
+- Registrar as evidências da execução do processo de migração.
+- Disponibilizar os cenários para que os squads realizem sua organização nas pastas correspondentes aos projetos.
+
+### Evidências da entrega
+- Planilha com os cenários exportados.
+- Preview do terminal demonstrando a execução do processo.
+- Evidência da execução dos testes unitários.
+- Captura de tela dos cenários disponibilizados no LambdaTest.
 
 ### Critérios de conclusão
-- Ajustes necessários implementados no script de transformação.
-- Merge Request revisado, aprovado e integrado à branch de destino.
-- Link do Merge Request registrado nos comentários deste card como evidência da entrega.
+- Cenários previstos no escopo migrados para o LambdaTest.
+- Pasta do time criada e cenários disponibilizados conforme o padrão definido.
+- Evidências da migração armazenadas no Drive e acessíveis para consulta.
+- Link da pasta de evidências registrado nos comentários do card.
 
-### Evidência de entrega
-Merge Request integrado contendo os ajustes necessários para a migração dos cenários da tribo.
-
-
+**Fora do escopo:** a reorganização dos cenários dentro das pastas específicas de cada projeto, que será realizada pelos respectivos squads.
 
 
-**Entrega concluída — Adequação do ETL para a tribo**
 
-Foram realizados os ajustes necessários no script de transformação do projeto **Campanhas e Logs da Test Migration**, considerando as particularidades e o padrão de escrita dos cenários do board da tribo.
+**Entrega concluída — Migração de cenários para o LambdaTest**
 
-As alterações foram consolidadas no Merge Request abaixo, que já foi revisado e integrado à branch de destino.
+A migração dos cenários de teste do time foi concluída por meio do projeto `kanbanize-lambdatest-migration`, e os cenários foram disponibilizados no LambdaTest, seguindo o padrão de organização definido para a iniciativa.
 
-**Evidência da entrega:** [Inserir link do Merge Request]
+As evidências da execução foram armazenadas no Drive, contemplando a planilha de cenários exportados, o preview do terminal, a execução dos testes unitários e a captura dos cenários migrados.
 
-Com a integração das alterações, a adequação do script para esta etapa da migração está concluída.
+**Evidências da entrega:** [Inserir link da pasta do Drive]
+
+Os cenários estão disponíveis para que o squad realize a organização nas respectivas pastas dos projetos, conforme sua estrutura e necessidade.
