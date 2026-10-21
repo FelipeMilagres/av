@@ -1,3 +1,0 @@
-Primeiramente, parabéns às squads que já estão concluindo as execuções dos testes no terceiro dia da release. Esse é o ritmo esperado: iniciar as validações desde o primeiro dia e avançar com antecedência para termos tempo hábil de tratar eventuais defeitos, realizar correções e reexecutar os cenários sem comprometer o cronograma. Essa organização é fundamental para garantir uma release segura e previsível.
-
-Por outro lado, gostaria de entender o motivo do atraso do time de Serviços Financeiros, considerando que temos uma janela de apenas cinco dias úteis (19/10 a 23/10), a maioria das squads já está concluindo as validações e o volume de cenários desse time é menor em comparação com os demais. No momento, ainda temos 0% de execução no iOS e 75% no Android.
