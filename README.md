@@ -1,9 +1,3 @@
-Olá, pessoal! Boa tarde!
+Primeiramente, parabéns às squads que já estão concluindo as execuções dos testes no terceiro dia da release. Esse é o ritmo esperado: iniciar as validações desde o primeiro dia e avançar com antecedência para termos tempo hábil de tratar eventuais defeitos, realizar correções e reexecutar os cenários sem comprometer o cronograma. Essa organização é fundamental para garantir uma release segura e previsível.
 
-Gostaria de entender o motivo do atraso na execução dos testes da release pelo time de Serviços Financeiros, considerando que a maioria das squads já concluiu suas execuções e que Serviços Financeiros possui um volume menor de cenários, mas ainda apresenta 0% de execução no iOS e 75% no Android.
-
-Reforço que a priorização dos testes de release deve acontecer desde o primeiro dia, considerando que temos uma janela de apenas cinco dias úteis (19/10 a 23/10). Essa antecipação é fundamental para garantir tempo hábil para análise, correção de eventuais defeitos e reexecução dos testes, evitando impactos no cronograma e no processo de liberação.
-
-Entendo que podem surgir outras demandas, porém a prioridade deve ser a release, com exceção de incidentes de produção que exijam atuação imediata. Qualquer outra situação que comprometa essa priorização precisa ser previamente alinhada com o QA Lead responsável e o System Team, para avaliação dos riscos e possíveis impactos no cronograma.
-
-Precisamos evitar que as execuções fiquem concentradas nos últimos dias da janela, pois isso reduz nossa capacidade de reação diante de possíveis problemas e coloca em risco a conclusão da release.
+Por outro lado, gostaria de entender o motivo do atraso do time de Serviços Financeiros, considerando que temos uma janela de apenas cinco dias úteis (19/10 a 23/10), a maioria das squads já está concluindo as validações e o volume de cenários desse time é menor em comparação com os demais. No momento, ainda temos 0% de execução no iOS e 75% no Android.
