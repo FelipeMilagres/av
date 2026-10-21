@@ -1,26 +1,21 @@
-Olá, Lahys! Tudo bem?
+Olá, Jéssica e Lahys! Tudo bem?
 
-Concluímos a avaliação consolidada do candidato **Matheus Amaral** e gostaríamos de formalizar sua **aprovação para a posição de QA Sênior**, com direcionamento para atuação no projeto **PDR 2.0**.
+Gostaria de atualizar vocês sobre o status das vagas que estavam em aberto e dos processos seletivos em andamento.
 
-De forma geral, o candidato apresentou um perfil técnico consistente, boa capacidade de comunicação e facilidade de adaptação a novos desafios. Entre os principais pontos positivos identificados, destacamos:
+Conforme sinalizado no e-mail anterior, tínhamos três posições disponíveis: QA Lead, Cartão Transversal e PDR 2.0. Neste momento, todas as vagas foram preenchidas, conforme detalhamento abaixo:
 
-- **Conhecimento técnico:** demonstrou domínio do código desenvolvido e boa capacidade de argumentação diante dos questionamentos técnicos e situacionais apresentados durante a entrevista.
-- **Qualidade do desafio técnico:** entregou uma solução bem estruturada, legível e com boa aplicação de padrões de código.
-- **Proatividade em automação:** apresentou uma mentalidade voltada à identificação de oportunidades de automação de atividades manuais e repetitivas, visando à otimização dos processos.
-- **Comunicação e adaptabilidade:** demonstrou facilidade para explicar suas experiências, compartilhar conhecimentos e lidar com diferentes desafios e tecnologias.
+Cartão Transversal: posição preenchida com a aprovação do candidato Rondon Júnior.
 
-Como pontos de desenvolvimento, identificamos oportunidades para tornar algumas respostas mais objetivas e alinhar as expectativas em relação à atuação em atividades manuais de teste, considerando seu perfil fortemente direcionado à automação. Esses pontos, entretanto, não representam impedimentos para a aprovação.
+PDR 2.0: posição preenchida com a aprovação do candidato Matheus Amaral, conforme comunicado no e-mail encaminhado anteriormente.
 
-Diante da avaliação, recomendamos seguir com a contratação e alocação do candidato no projeto.
+QA Lead: posição atendida por meio de um alinhamento interno de alocação de recursos, não sendo mais necessária a continuidade da busca para essa posição.
 
-**Para alinharmos os próximos passos, poderia nos confirmar, por gentileza:**
+Dessa forma, no momento, não temos vagas abertas para alocação imediata de novos candidatos. Em razão disso, vamos paralisar a evolução dos demais processos seletivos que ainda estão em análise, até que surja uma nova necessidade de contratação.
 
-- Qual é a previsão de início do Matheus para atuação no projeto PDR 2.0?
-- Já podemos encaminhar os dados necessários para iniciar a solicitação dos acessos aos sistemas e ambientes do projeto?
+Em relação ao Giovanni Araújo, temos uma entrevista agendada para hoje à tarde. Como não temos mais uma posição disponível para alocação imediata, a entrevista teria como objetivo exclusivamente avaliar o perfil do candidato para uma eventual oportunidade futura, mantendo-o em nosso banco de talentos caso seja aprovado.
 
-Ficamos no aguardo para dar continuidade aos trâmites de alocação.
+Nesse sentido, peço que alinhem com o candidato essa condição antes da entrevista. Caso ele tenha interesse em seguir no processo mesmo sem uma perspectiva de alocação imediata, podemos manter a agenda. Caso contrário, podemos realizar o cancelamento, evitando gerar uma expectativa de contratação que não poderemos atender neste momento.
 
-Obrigado!
+Agradeço a parceria e o apoio de vocês ao longo dos processos. Manteremos o contato para futuras oportunidades, conforme surgirem novas demandas de contratação.
 
-Atenciosamente,  
-Felipe Milagres Guimarães
+Atenciosamente,
