@@ -1,5 +1,1 @@
-Sim, concordo com você. Mas acho que precisamos entender e alinhar bem essa questão, principalmente considerando o compromisso que assumimos no início do ano em relação ao volume de cenários automatizados que precisamos entregar.
-
-É claro que os pontos que estamos contornando neste momento precisam ser mapeados e documentados para que possamos evoluir e tratar as melhorias necessárias no aplicativo. Porém, se pararmos para resolver todas essas questões antes de avançarmos com as automações, corremos o risco de não atender aos prazos e às expectativas que foram estabelecidos.
-
-A ideia é trabalharmos em paralelo: continuar evoluindo na quantidade de cenários automatizados, mantendo os pontos de melhoria mapeados para que sejam tratados de forma estruturada e priorizados conforme o impacto e a necessidade.
+Precisamos encontrar esse equilíbrio para cumprir o que prometemos até o final do ano. Com essa entrega consolidada, teremos uma base melhor para planejar as evoluções e os ajustes necessários para o próximo ano.
