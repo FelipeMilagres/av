@@ -1,22 +1,5 @@
-Support Request – App Automation on iOS | Security Investigation
+Sim, concordo com você. Mas acho que precisamos entender e alinhar bem essa questão, principalmente considerando o compromisso que assumimos no início do ano em relação ao volume de cenários automatizados que precisamos entregar.
 
+É claro que os pontos que estamos contornando neste momento precisam ser mapeados e documentados para que possamos evoluir e tratar as melhorias necessárias no aplicativo. Porém, se pararmos para resolver todas essas questões antes de avançarmos com as automações, corremos o risco de não atender aos prazos e às expectativas que foram estabelecidos.
 
-Hello, LambdaTest Support Team,
-
-We have identified blocking screens during automated test execution for our application using the App Automation functionality, specifically on iOS devices. This behavior occurs after logging in to the application.
-
-In alignment with our Information Security (SI) team, we have raised the possibility that these blocks may be related to a rule in Banco Carrefour's WAF, potentially associated with the origin of the requests generated during execution.
-
-To move forward with the investigation together, we need LambdaTest's assistance in obtaining technical information related to the infrastructure and affected executions:
-
-* Public egress IP: the IP address or IP range used by LambdaTest infrastructure during App Automation executions on iOS devices.
-
-* Request and response technical details: logs or information available on the platform that could help identify the access attempt, including the accessed URL and any identifiers present in the response, such as a Ray ID, if available.
-
-Our SI team will use this information to correlate the executions with the WAF logs and investigate what is being blocked.
-
-Could you please assist us in obtaining these details and advise us on how to access them through the platform? If needed, we can also share details of the affected executions to facilitate the investigation.
-
-Thank you for your support. We would appreciate your help in expediting this investigation and working together to identify the source of the issue.
-
-Best regards,
+A ideia é trabalharmos em paralelo: continuar evoluindo na quantidade de cenários automatizados, mantendo os pontos de melhoria mapeados para que sejam tratados de forma estruturada e priorizados conforme o impacto e a necessidade.
