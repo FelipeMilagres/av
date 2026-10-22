@@ -1,3 +1,38 @@
+### Contexto
+Realizar o levantamento das informações, dos requisitos e das definições necessárias para viabilizar a implementação de um relatório de Release Train, permitindo acompanhar e dar visibilidade ao status geral das execuções e entregas realizadas durante o processo de Delivery.
+
+### Objetivo
+Conduzir o discovery da solução de acompanhamento do Release Train, identificando as informações necessárias para composição do relatório, os critérios de aceite e o canal que será utilizado para disponibilização e gestão das métricas.
+
+### Escopo da atividade
+- Levantar os requisitos e as informações necessárias para a composição do relatório de Release Train.
+- Definir os critérios de aceite para validação das informações e do resultado esperado.
+- Identificar as métricas necessárias para acompanhar o status das execuções e entregas do processo de Delivery.
+- Definir o canal ou a ferramenta que será utilizada para disponibilização e acompanhamento das métricas.
+- Documentar as decisões, os requisitos e as definições levantadas para orientar a implementação posterior.
+
+### Critérios de aceite
+- Requisitos e informações necessários para o relatório identificados e documentados.
+- Critérios de aceite definidos e validados com os envolvidos.
+- Canal de disponibilização e gestão das métricas definido.
+- Documentação consolidada e disponível para orientar a etapa de implementação.
+
+### Referência
+Documentação de acompanhamento do Release Train: [Inserir link do documento de referência].
+
+
+
+
+Foi realizado o levantamento das informações e dos requisitos necessários para orientar a implementação do relatório de Release Train, com foco em proporcionar maior visibilidade do status geral das execuções e entregas durante o processo de Delivery.
+
+Foram contempladas as definições dos critérios de aceite, das informações necessárias para composição do relatório e do canal para disponibilização e acompanhamento das métricas.
+
+Evidência da entrega: [Inserir link da documentação consolidada]
+
+A documentação servirá como referência para orientar os próximos passos da implementação da solução.
+
+
+
 # Documento de Consolidação
 ## Discovery de Gestão da Release Train
 
