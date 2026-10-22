@@ -1,1 +1,0 @@
-Precisamos encontrar esse equilíbrio para cumprir o que prometemos até o final do ano. Com essa entrega consolidada, teremos uma base melhor para planejar as evoluções e os ajustes necessários para o próximo ano.
