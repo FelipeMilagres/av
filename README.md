@@ -1,4 +1,4 @@
-Adequar o script de transformação do ETL ao padrão dos cenários da tribo
+Migrar cenários de teste para o LambdaTest
 
 ### Contexto
 O projeto **`kanbanize-lambdatest-migration`** realiza a extração dos cards e cenários de teste do Kanbanize, a transformação dos dados para o formato esperado pelo LambdaTest e o carregamento dos cenários na plataforma de destino.
@@ -28,8 +28,6 @@ Migrar os cenários de teste do time para o LambdaTest e disponibilizá-los em u
 - Link da pasta de evidências registrado nos comentários do card.
 
 **Fora do escopo:** a reorganização dos cenários dentro das pastas específicas de cada projeto, que será realizada pelos respectivos squads.
-
-
 
 **Entrega concluída — Migração de cenários para o LambdaTest**
 
