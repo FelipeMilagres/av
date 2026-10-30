@@ -1,29 +1,24 @@
-Padrão de nomenclatura dos Test Runs
+Vamos seguir com a migração completa para LambdaTest, mantendo a consistência de nomenclatura e configuração em todo o projeto.
 
-Adotar um padrão único de nomenclatura para todas as execuções automatizadas de APIs, contemplando tanto execuções realizadas via GitLab CI/CD quanto execuções locais.
+Quero padronizar:
 
-Execução via Pipeline:
+- Variáveis de ambiente utilizando o prefixo "LAMBDATEST_".
+- URL base e hostname conforme a documentação oficial da API do LambdaTest.
+- Comandos npm relacionados à integração.
+- Nomes de arquivos, classes e componentes da integração.
+- Diretórios de configuração e armazenamento de artefatos.
+- Testes unitários e respectivas referências.
+- Documentação técnica e exemplos de configuração.
 
-"API Automation | {nomeApi} | {ambiente} | {DD-MM-YYYY HH:mm} | Pipeline #{CI_PIPELINE_ID}"
+Não manter aliases ou referências antigas de outras ferramentas.
 
-Execução local:
+Cuidados:
 
-"API Automation | {nomeApi} | {ambiente} | {DD-MM-YYYY HH:mm} | LOCAL"
+- Preservar a arquitetura atual e as funcionalidades existentes.
+- Não alterar a lógica de execução dos testes de API.
+- Não realizar refatorações fora do escopo da migração.
+- Atualizar todas as referências afetadas, evitando configurações duplicadas.
+- Validar os endpoints e hostnames na documentação oficial antes de utilizá-los.
+- Garantir que os testes unitários continuem passando.
 
-Regras de preenchimento:
-
-- "{nomeApi}": nome da API conforme o mapeamento centralizado.
-- "{ambiente}": ambiente utilizado na execução (HML, MOCK etc.).
-- "{DD-MM-YYYY HH:mm}": data e horário da execução, utilizando o timezone "America/Sao_Paulo".
-- "CI_PIPELINE_ID": identificador da pipeline do GitLab, quando disponível.
-- "LOCAL": identificador fixo para execuções realizadas fora da pipeline.
-
-O framework deverá identificar automaticamente a origem da execução e aplicar o padrão correspondente, mantendo a nomenclatura centralizada em um único componente reutilizável.
-
-Exemplos:
-
-"API Automation | Conta | HML | 30-10-2026 14:35 | Pipeline #123456"
-
-"API Automation | Conta | HML | 30-10-2026 14:35 | LOCAL"
-
-Não incluir informações adicionais no título. Dados como branch, commit, job e URL da pipeline deverão permanecer como metadados complementares, quando suportados pelo LambdaTest.
+Ao finalizar, apresentar um resumo dos arquivos alterados, das nomenclaturas padronizadas e das validações realizadas.
