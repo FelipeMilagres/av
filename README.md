@@ -1,16 +1,29 @@
-Vamos seguir com a opção 1.
+Padrão de nomenclatura dos Test Runs
 
-Utilize a variável "CI_PIPELINE_ID" do GitLab para identificar as execuções realizadas pela pipeline.
+Adotar um padrão único de nomenclatura para todas as execuções automatizadas de APIs, contemplando tanto execuções realizadas via GitLab CI/CD quanto execuções locais.
 
-Para o horário, utilize o timezone "America/Sao_Paulo", garantindo que a data e hora apresentadas no Test Run correspondam ao horário local.
+Execução via Pipeline:
 
-Regras:
+"API Automation | {nomeApi} | {ambiente} | {DD-MM-YYYY HH:mm} | Pipeline #{CI_PIPELINE_ID}"
 
-- Execução via GitLab: utilizar "CI_PIPELINE_ID".
-- Execução local: utilizar "LOCAL" como identificador.
-- Sempre incluir data e horário no título.
-- Manter o padrão de nomenclatura já definido:
+Execução local:
 
-"API Automation | {nomeApi} | {DD-MM-YYYY HH:mm} | {identificador}"
+"API Automation | {nomeApi} | {ambiente} | {DD-MM-YYYY HH:mm} | LOCAL"
 
-Centralize o tratamento de data, horário e identificação da execução, evitando duplicidade de lógica.
+Regras de preenchimento:
+
+- "{nomeApi}": nome da API conforme o mapeamento centralizado.
+- "{ambiente}": ambiente utilizado na execução (HML, MOCK etc.).
+- "{DD-MM-YYYY HH:mm}": data e horário da execução, utilizando o timezone "America/Sao_Paulo".
+- "CI_PIPELINE_ID": identificador da pipeline do GitLab, quando disponível.
+- "LOCAL": identificador fixo para execuções realizadas fora da pipeline.
+
+O framework deverá identificar automaticamente a origem da execução e aplicar o padrão correspondente, mantendo a nomenclatura centralizada em um único componente reutilizável.
+
+Exemplos:
+
+"API Automation | Conta | HML | 30-10-2026 14:35 | Pipeline #123456"
+
+"API Automation | Conta | HML | 30-10-2026 14:35 | LOCAL"
+
+Não incluir informações adicionais no título. Dados como branch, commit, job e URL da pipeline deverão permanecer como metadados complementares, quando suportados pelo LambdaTest.
