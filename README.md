@@ -1,24 +1,21 @@
-Vamos seguir com a migração completa para LambdaTest, mantendo a consistência de nomenclatura e configuração em todo o projeto.
+Vamos adotar a estratégia de bloqueio de publicação caso não seja possível garantir a associação do Test Run à pasta correta.
 
-Quero padronizar:
+A organização por API é um requisito da arquitetura definida, portanto não devemos publicar execuções na raiz ou em pastas diferentes como fallback.
 
-- Variáveis de ambiente utilizando o prefixo "LAMBDATEST_".
-- URL base e hostname conforme a documentação oficial da API do LambdaTest.
-- Comandos npm relacionados à integração.
-- Nomes de arquivos, classes e componentes da integração.
-- Diretórios de configuração e armazenamento de artefatos.
-- Testes unitários e respectivas referências.
-- Documentação técnica e exemplos de configuração.
+Antes de implementar:
 
-Não manter aliases ou referências antigas de outras ferramentas.
+1. Investigue os endpoints documentados e os recursos disponíveis no tenant LambdaTest.
+2. Verifique se existe alguma operação suportada para associar o Test Run à pasta correspondente.
+3. Caso a documentação pública não contemple esse recurso, avalie se existe suporte adicional disponibilizado pelo tenant.
+4. Não utilize endpoints não documentados ou mecanismos presumidos.
 
-Cuidados:
+Comportamento esperado:
 
-- Preservar a arquitetura atual e as funcionalidades existentes.
-- Não alterar a lógica de execução dos testes de API.
-- Não realizar refatorações fora do escopo da migração.
-- Atualizar todas as referências afetadas, evitando configurações duplicadas.
-- Validar os endpoints e hostnames na documentação oficial antes de utilizá-los.
-- Garantir que os testes unitários continuem passando.
+- Se a associação à pasta for suportada, criar o Test Run normalmente no diretório correspondente à API.
+- Se não for possível confirmar a associação, interromper a publicação e registrar um erro claro de integração.
+- Preservar os resultados e relatórios localmente e como artefatos da pipeline.
+- Não perder nem mascarar o resultado real dos testes por causa da falha de integração.
 
-Ao finalizar, apresentar um resumo dos arquivos alterados, das nomenclaturas padronizadas e das validações realizadas.
+Não implementar fallback para a raiz do Test Runs.
+
+Caso a funcionalidade não seja suportada, apresentar a limitação técnica e as alternativas disponíveis antes de prosseguir.
